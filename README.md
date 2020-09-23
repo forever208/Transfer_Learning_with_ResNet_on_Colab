@@ -12,7 +12,7 @@
      - 99% training accuracy, 100% accuracy on test set
    
    
-## Prediction result is hown as follows
+## Prediction result of the test set
 
 <img src="prediction_result.png" width="300" />
 
