@@ -10,8 +10,9 @@
      - 310 training images, 30 validation images
      - 5 epoches
      - 99% training accuracy, 100% accuracy on test set
-     
-Prediction result is hown as follows
+   
+   
+## Prediction result is hown as follows
 
-<img src="prediction_result.png" width="200" />
+<img src="prediction_result.png" width="300" />
 
