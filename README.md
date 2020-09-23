@@ -14,5 +14,5 @@
    
 ## Prediction result of the test set
 
-<img src="prediction_result.png" width="300" />
+<img src="prediction_result.png" width="250" />
 
