@@ -12,5 +12,6 @@
      - 99% training accuracy, 100% accuracy on test set
      
 Prediction result is hown as follows
-<img src="prediction_result.png" width="400" />
+
+<img src="prediction_result.png" width="200" />
 
