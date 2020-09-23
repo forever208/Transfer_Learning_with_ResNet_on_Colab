@@ -1,7 +1,7 @@
 # Transfer_Learning_with_ResNet_on_Colab
 
 
-![ResNet50](https://img.shields.io/badge/YOLOv4-API-brightgree) ![Colab](https://img.shields.io/badge/Colab-training-orange)
+![ResNet50](https://img.shields.io/badge/ResNet50-Transfer%20Learning-brightgreen) ![Colab](https://img.shields.io/badge/Colab-training-orange)
 
 ## Training details
 - This project trained a classification model by transfer learning on Google Colab
@@ -11,6 +11,6 @@
      - 5 epoches
      - 99% training accuracy, 100% accuracy on test set
      
-
-<img src="img/your GoogleDrive folder .png" width="800" />
+Prediction result is hown as follows
+<img src="prediction_result.png" width="800" />
 
