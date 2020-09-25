@@ -15,5 +15,6 @@ This repo mainly referenced to the [resource](https://www.mlq.ai/transfer-learni
    
 ## Prediction result of the test set
 the test set can be found in __test folder__, the prediction is shown as follows:
+
 <img src="prediction_result.png" width="250" />
 
